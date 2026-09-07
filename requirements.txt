@@ -1,0 +1,4 @@
+Flask
+instagrapi
+requests
+gunicorn
